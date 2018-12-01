@@ -19,8 +19,7 @@ f = chord(:F5, :major)
     
     play_pattern_timed [g, e, c, d],[1,1,1,1]
     
-  end
-  
+  end  
 end
 
 live_loop :beat do
@@ -42,7 +41,6 @@ end
     play_pattern_timed [e, g, c, d],[1,1,1,1]
     
   end
-  
 end
 
 live_loop :beat2 do
@@ -65,7 +63,6 @@ end
     play_pattern_timed [g, e, c, d],[1,1,1,1]
     
   end
-  
 end
 
 
